@@ -1,0 +1,11 @@
+
+t	java:S115"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(´½Ë‡ùÿÿÿÿ
+o	java:S115"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(êÜÁÇ
+b
+java:S1124"EReorder the modifiers to comply with the Java Language Specification.(êÜÁÇ8¶µşÍ÷0
+Z	java:S106
+"9Replace this use of System.out or System.err by a logger.(Å­Ëİúÿÿÿÿ8úĞÛÍ÷0
+V
+java:S3400"9Remove this method and declare a constant for this value.(›…Ú8®ÑÙÍ÷0
+O
+java:S1144"-Remove this unused private "buryBone" method.(ıÜú”øÿÿÿÿ8¨íÔ¤ù0

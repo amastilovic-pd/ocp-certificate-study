@@ -1,0 +1,12 @@
+
+T
+java:S2629@"7Use the built-in formatting to construct this argument.(Ã×£Ã8œ®°Ëğ0
+Q
+java:S6437"6Revoke and change this password, as it is compromised.(§¨ªúøÿÿÿÿ
+U	java:S106"9Replace this use of System.out or System.err by a logger.(ò†á8¤Òæøğ0
+I
+java:S1481<",Remove this unused "execute" local variable.(–ÉêŸ8¾®°Ëğ0
+O
+java:S1144("3Remove this unused private "usingResultSet" method.(ãõa8Ï—åÊğ0
+V
+java:S11444";Remove this unused private "usingPreparedStatement" method.(´ØÑ™ÿÿÿÿÿ

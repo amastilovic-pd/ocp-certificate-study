@@ -1,0 +1,21 @@
+
+d
+java:S2094"BRemove this empty class, write its code or make it an "interface".(ÒœèÙýÿÿÿÿ8ÄÉ–ÀÑ1
+X	java:S125"<This block of commented-out lines of code should be removed.(¸ŸÃ‰8ÄÉ–ÀÑ1
+T	java:S106"9Replace this use of System.out or System.err by a logger.(ÓëÅV8ÆÉ–ÀÑ1
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(‹íèÃüÿÿÿÿ8ÇÉ–ÀÑ1
+]	java:S125"<This block of commented-out lines of code should be removed.(õþ¦Ñùÿÿÿÿ8ÈÉ–ÀÑ1
+]	java:S125V"<This block of commented-out lines of code should be removed.(¬¼¢Óüÿÿÿÿ8ËÉ–ÀÑ1
+Z	java:S106Y"9Replace this use of System.out or System.err by a logger.(Å­ËÝúÿÿÿÿ8ÌÉ–ÀÑ1
+N
+java:S1481["1Remove this unused "preIncrement" local variable.(ßëç‚8ÍÉ–ÀÑ1
+T
+java:S1481\"2Remove this unused "postIncrement" local variable.(¢‰Åµúÿÿÿÿ8ÍÉ–ÀÑ1
+]	java:S125^"<This block of commented-out lines of code should be removed.(ÐÔªþÿÿÿÿ8ÍÉ–ÀÑ1
+]	java:S125d"<This block of commented-out lines of code should be removed.(ÐÔªþÿÿÿÿ8ÍÉ–ÀÑ1
+Z	java:S106j"9Replace this use of System.out or System.err by a logger.(Ö¾†âÿÿÿÿÿ8ÐÉ–ÀÑ1
+T	java:S106k"9Replace this use of System.out or System.err by a logger.(×Û·8ÐÉ–ÀÑ1
+]	java:S125l"<This block of commented-out lines of code should be removed.(ôÀÈÒúÿÿÿÿ8ÑÉ–ÀÑ1
+]	java:S125q"<This block of commented-out lines of code should be removed.(¹°ð©ûÿÿÿÿ8Üò´£ã1
+K
+java:S1128".Remove this unused import 'java.util.Objects'.(¼¸õ›8àò´£ã1

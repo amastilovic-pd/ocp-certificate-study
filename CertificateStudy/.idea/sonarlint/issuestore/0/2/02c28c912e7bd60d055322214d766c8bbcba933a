@@ -1,0 +1,11 @@
+
+R
+java:S1854"7Remove this useless assignment to local variable "srs".(ÇÛÛÓÿÿÿÿÿ
+C
+java:S1481"(Remove this unused "srs" local variable.(ÇÛÛÓÿÿÿÿÿ
+V	java:S125"<This block of commented-out lines of code should be removed.(®öĞÈûÿÿÿÿ
+V	java:S125"<This block of commented-out lines of code should be removed.(¯Äá·ûÿÿÿÿ
+V	java:S125"<This block of commented-out lines of code should be removed.(òâµ¬ÿÿÿÿÿ
+N	java:S1061"9Replace this use of System.out or System.err by a logger.(¸¿ª
+S	java:S106M"9Replace this use of System.out or System.err by a logger.(Ô‚ˆ®øÿÿÿÿ
+S	java:S106i"9Replace this use of System.out or System.err by a logger.(€ĞûÌşÿÿÿÿ

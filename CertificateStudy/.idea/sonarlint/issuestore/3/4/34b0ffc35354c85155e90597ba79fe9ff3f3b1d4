@@ -1,0 +1,53 @@
+
+h
+java:S1192."FDefine a constant instead of duplicating this literal "test1" 8 times.(ó·ºçùÿÿÿÿ8ğûœ±Ó1
+h
+java:S1192."FDefine a constant instead of duplicating this literal "test2" 8 times.(ó·ºçùÿÿÿÿ8ğûœ±Ó1
+h
+java:S1192."FDefine a constant instead of duplicating this literal "test3" 8 times.(ó·ºçùÿÿÿÿ8ñûœ±Ó1
+s
+java:S1149–"VReplace the synchronized class "Hashtable" by an unsynchronized one such as "HashMap".(‰ïÜ"8Îüœ±Ó1
+]	java:S125"<This block of commented-out lines of code should be removed.(«­Œæûÿÿÿÿ8Ôüœ±Ó1
+X	java:S125"<This block of commented-out lines of code should be removed.(ú‡…×8óüœ±Ó1
+U	java:S106"9Replace this use of System.out or System.err by a logger.(×Æáî8õüœ±Ó1
+U	java:S106"9Replace this use of System.out or System.err by a logger.(×Æáî8øüœ±Ó1
+F
+java:S2201)")The return value of "count" must be used.(Ù Ëû8üüœ±Ó1
+>
+java:S3864("!Remove this use of "Stream.peek".(ßˆ±ö8ıüœ±Ó1
+>
+java:S3864&"!Remove this use of "Stream.peek".(ßˆ±ö8şüœ±Ó1
+U	java:S106&"9Replace this use of System.out or System.err by a logger.(ßˆ±ö8ÿüœ±Ó1
+U	java:S106("9Replace this use of System.out or System.err by a logger.(ßˆ±ö8ıœ±Ó1
+Z	java:S1066"9Replace this use of System.out or System.err by a logger.(Ã™œøûÿÿÿÿ8„ıœ±Ó1
+X	java:S1254"<This block of commented-out lines of code should be removed.(¼áóƒ8…ıœ±Ó1
+a
+java:S1612="?Replace this lambda with method reference 'StringBuilder::new'.(ËùŸúÿÿÿÿ8‡ıœ±Ó1
+U	java:S106A"9Replace this use of System.out or System.err by a logger.(’ıÙ†8Šıœ±Ó1
+Z	java:S106I"9Replace this use of System.out or System.err by a logger.(š—“¿ÿÿÿÿÿ8ıœ±Ó1
+X
+java:S1612Q";Replace this lambda with method reference 'String::length'.(ı±Ä¯8’ıœ±Ó1
+Z	java:S106S"9Replace this use of System.out or System.err by a logger.(š—“¿ÿÿÿÿÿ8“ıœ±Ó1
+]
+java:S1612Z";Replace this lambda with method reference 'String::length'.(¾†ó¯úÿÿÿÿ8–ıœ±Ó1
+Z	java:S106`"9Replace this use of System.out or System.err by a logger.(š—“¿ÿÿÿÿÿ8—ıœ±Ó1
+Z	java:S106u"9Replace this use of System.out or System.err by a logger.(š’®ªûÿÿÿÿ8 ıœ±Ó1
+U	java:S106v"9Replace this use of System.out or System.err by a logger.(Š›úÏ8 ıœ±Ó1
+a
+java:S1854„">Remove this useless assignment to local variable "collectSet".(â£Íşÿÿÿÿ8¡ıœ±Ó1
+R
+java:S1481„"/Remove this unused "collectSet" local variable.(â£Íşÿÿÿÿ8¦ıœ±Ó1
+U	java:S106"9Replace this use of System.out or System.err by a logger.(ÙÓ»y8§ıœ±Ó1
+S
+java:S1854–"6Remove this useless assignment to local variable "ht".(‰ïÜ"8§ıœ±Ó1
+^	java:S125”"<This block of commented-out lines of code should be removed.(‚¦ œùÿÿÿÿ8©ıœ±Ó1
+^
+java:S1612•";Replace this lambda with method reference 'String::length'.(µ„ÓÄıÿÿÿÿ8ªıœ±Ó1
+[	java:S106•"9Replace this use of System.out or System.err by a logger.(µ„ÓÄıÿÿÿÿ8«ıœ±Ó1
+D
+java:S1481–"'Remove this unused "ht" local variable.(‰ïÜ"8¬ıœ±Ó1
+^	java:S125—"<This block of commented-out lines of code should be removed.(ä×ËÂùÿÿÿÿ8¬ıœ±Ó1
+M
+java:S1128"1Remove this unused import 'java.util.LinkedList'.(»Äğ18´ıœ±Ó1
+R
+java:S1144´"/Remove this unused private "bubbleSort" method.(®Ã²îùÿÿÿÿ8´ıœ±Ó1

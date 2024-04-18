@@ -1,0 +1,157 @@
+attempt 1: 22/50 correct -> 44%, need 68 to pass
+
+    //question2: A,F  // correct B, F -
+    //question3: B, C, E // correct B, C, E +
+    //question4: E // correct E +
+    //question5: D // correct A -
+    //question6: B, C, F // correct A, C, F -
+    //question7: A, D // correct A, D +
+    //question8: B // correct E -
+    //question9: B (lines that fail: wheel2, wheel5) // correct B +
+    //question10: B, E // correct B, F -
+    //question11: C // correct C +
+    //question12: D // correct D +
+    //question13: D // correct D +
+    //question14: D // correct F -
+    //question15: D // correct B -
+    //question16: D // correct E -
+    //question17: E // correct D -
+    //question18: D // correct E -
+    //question19: A, D, E // correct A, D, E +
+    //question20: A, C, D // correct A, B, D -
+    //question21: C // correct  +
+    //question22: A // correct A +
+    //question23: B // correct B +
+    //question24: C, E, F // correct A, C, E -
+    //question25: B, E // correct B, E +
+    //question26: E // correct E +
+    //question27: B, D // correct B, D +
+    //question28: E // correct E +
+    //question29: A // correct C -
+    //question30: idk
+    //question31: D // correct D +
+    //question32: B, C // correct E -
+    //question33: E // correct E +
+    //question34: E // correct F -
+    //question35: B // correct B +
+    //question36: D // correct E -
+    //question37: D // correct D +
+    //question38: B, E, F // correct B, D, F -
+    //question39: idk
+    //question40: C // correct D -
+    //question41: B, E // correct B, E +
+    //question42: E // correct F -
+    //question43: F // correct E -
+    //question44: D // correct D +
+    //question45: E // correct D -
+    //question46: idk
+    //question47: E // correct E -
+    //question48: E // correct B -
+    //question49: A // correct A +
+    //question50: B // correct D-
+
+attempt2: 37/50 or 35/50, cba counting this many lines
+    //question1: E // correct
+    //question2: B, F // correct
+    //question3: B, C, E // correct
+    //question4: study
+    //question5: A // correct
+    //question6: A, C, F // correct
+    //question7: A, D // correct
+    //question8: E // correct
+    //question9: B, wheel2 and wheel 5 // correct
+    //question10: B, F // correct
+    //question11: C // correct
+    //question12: study
+    //question13: D // correct
+    //question14: F // correct
+    //question15: B // correct // Service locator - requires; Service provider - exports or something
+    //question16: E // correct
+    //question17: study
+    //question18: study
+    //question19: A, D, E // correct
+    //question20: A, B, D // correct
+    //question21: C // correct
+    //question22: A // correct
+    //question23: C // false -> correct is B
+    //question24: A, C, E // correct
+    //question25: B, E // correct
+    //question26: study
+    //question27: A, D // false -> correct is B, D
+    //question28: E // correct
+    //question29: C // correct
+    //question30: study
+    //question31: D // correct
+    //question32: E // correct
+    //question33: C // false -> correct is E
+    //question34: F // correct  -> doesnt compile because grow overrides parent method in a wrong way: super.Plant.grow() instead of Plant.super.grow()
+    //question35: B // correct
+    //question36: study
+    //question37: D // correct  -> doesnt compile because switch expression required case keyword for each case
+    //question38: B, D, F // correct
+    //question39: study (too long cba reading)
+    //question40: D // correct
+    //question41: B, E // correct
+    //question42: study
+    //question43: study (exceptions->cba)
+    //question44: D // correct
+    //question45: D // correct
+    //question46: study
+    //question47: B // correct
+    //question48: B // correct // variable s is not effectively final (try-with-resources requries final or effectively final variables), in catch block child and parent exceptions cant be declared
+    //question49: A // correct
+    //question50: study
+
+
+
+attempt 3: Exam 1: 29/50
+              //question1: E correct ->  .map doesnt take 2 arguemnts, only 1 because its consumer
+              //question2: B, F -> LackOfInformationException extends InformationException, which doesnt have any constructors, only default empty one. So when providing empty string, that consturctor doesnt exist
+              //question3: B C E correct
+              //question4: study
+              //question5: A correct -> code compiles but question A requires "-" of output
+              //question6: A, C, F correct
+              //question7: A, D correct
+              //question8: E correct
+              //question9: B correct  //lines that fail: 2, 5 ;lines that compile: 1, 3, 4, 6
+              //question10: B, F correct
+              //question11: C correct
+              //question12: A -> There is error because syntax can't be => but ->
+              //question13: D -> ServiceLocator doesnt have load method
+              //question14: F correct -> output is not guaranteed because we dont know content of args[]? I think
+              //question15: B correct
+              //question16: E correct -> first and third require 2 arguments, so only possible answer is E
+              //question17: study idk dates
+              //question18: study idk sql driver connections
+              //question19: A, D, E correct
+              //question20: A, D
+              //question21: C? correct
+              //question22: A correct
+              //question23: C
+              //question24: A, B, E
+              //question25: B, E correct
+              //question26: idk
+              //question27: B, D correct
+              //question28: E correct
+              //question29: C correct -> answer cannot be determined because of parallel stream usage. Since working with multiple threads, we dont know what will be the output
+              //question30: idk string blocks man what th efuck are these quesitons
+              //question31: B correct
+              //question32: B
+              //question33: E correct -> last arguments in reduce make no sense to me because there are onyl 2 values in stream idk
+              //question34: F correct -> correct syntax is Plant.super.grow() not super.Plant.grow()
+              //question35: B correct -> Line 22 (non static methods cant be referenced in static methods)
+              //question36: idk paths not gonna bother
+              //question37: D correct -> switch requires case keyword when providing case statements
+              //question38: B, E, F
+              //question39: D
+              //question40: C
+              //question41: B, E correct
+              //question42: cba dates
+              //question43: E correct
+              //question44: D correct
+              //question45: C
+              //question46: idk files and paths man whtathefuckkkkk
+              //question47: B correct
+              //question48: A -> catch doesnt need to have child and parent exceptions
+              //question49: A correct -> because count is terminal method
+              //question50: B

@@ -1,0 +1,15 @@
+
+d
+java:S1192"GDefine a constant instead of duplicating this literal "hello " 3 times.(«ì¹²8­™›—Ÿ1
+k
+java:S1192"NDefine a constant instead of duplicating this literal ", phone num: " 3 times.(«ì¹²8¯™›—Ÿ1
+n	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(üå„Æûÿÿÿÿ8°™›—Ÿ1
+G
+java:S5411"*Use the primitive boolean expression here.(ÊÚ¿÷8³™›—Ÿ1
+I
+java:S1602",Remove useless curly braces around statement(Ş‘­8È™›—Ÿ1
+U	java:S106"9Replace this use of System.out or System.err by a logger.(«ì¹²8É™›—Ÿ1
+N
+java:S1602",Remove useless curly braces around statement(Èæ¿Ïøÿÿÿÿ8Ì™›—Ÿ1
+U	java:S106"9Replace this use of System.out or System.err by a logger.(ÊÚ¿÷8Í™›—Ÿ1
+U	java:S106"9Replace this use of System.out or System.err by a logger.(«ì¹²8Î™›—Ÿ1

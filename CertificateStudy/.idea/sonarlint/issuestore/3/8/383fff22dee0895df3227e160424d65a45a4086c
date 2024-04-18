@@ -1,0 +1,10 @@
+
+n	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ØÁÇj
+K
+java:S1610"6Convert the abstract class "Animal" into an interface.(ˆ„Î"
+U	java:S106"9Replace this use of System.out or System.err by a logger.(óŞ“8³¬´œè0
+>
+java:S1116	"Remove this empty statement.(ôŸìúÿÿÿÿ8šÙ¹˜é0
+[
+java:S5993"9Change the visibility of this constructor to "protected".(‹¿ëÒúÿÿÿÿ8°èº–è0
+U	java:S106"9Replace this use of System.out or System.err by a logger.(˜˜¥8›Ù¹˜é0

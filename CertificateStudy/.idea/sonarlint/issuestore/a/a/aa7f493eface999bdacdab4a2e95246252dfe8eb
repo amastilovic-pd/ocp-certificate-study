@@ -1,0 +1,34 @@
+
+d
+java:S1104"OMake MAX a static final constant or non-public and provide accessors if needed.(ø˜¬e
+e
+java:S1104""OMake MAX a static final constant or non-public and provide accessors if needed.(¦ÞüË
+b	java:S116"NRename this field "MAX" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ø˜¬e
+B
+java:S1172",Remove this unused method parameter "depth".(Ö‘Ëº
+N	java:S106"9Replace this use of System.out or System.err by a logger.(üÈª¸
+S	java:S106"9Replace this use of System.out or System.err by a logger.(ø¬ª†ûÿÿÿÿ
+O
+java:S3400"9Remove this method and declare a constant for this value.(ž›…Ú
+V	java:S125"<This block of commented-out lines of code should be removed.(»ž•ûÿÿÿÿ
+c	java:S116""NRename this field "MAX" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¦ÞüË
+>
+java:S2387""("MAX" is the name of a field in "Whale".(¦ÞüË
+S	java:S106%"9Replace this use of System.out or System.err by a logger.(æ­è¹øÿÿÿÿ
+P
+java:S1161(":Add the "@Override" annotation above this method signature(Ö‘Ëº
+M	java:S106)"9Replace this use of System.out or System.err by a logger.(ü§•(
+N	java:S106."9Replace this use of System.out or System.err by a logger.(€àŽú
+S	java:S1067"9Replace this use of System.out or System.err by a logger.(Û¢û¼øÿÿÿÿ
+N
+java:S1854F"8Remove this useless assignment to local variable "ints".(©ÿ†ð
+S
+java:S1854B"8Remove this useless assignment to local variable "orc1".(ÙîÅ£ÿÿÿÿÿ
+D
+java:S1481B")Remove this unused "orc1" local variable.(ÙîÅ£ÿÿÿÿÿ
+Q	java:S125D"<This block of commented-out lines of code should be removed.(§™Œ”
+?
+java:S1481F")Remove this unused "ints" local variable.(©ÿ†ð
+V	java:S125G"<This block of commented-out lines of code should be removed.(¿°©ýÿÿÿÿ
+S	java:S106J"9Replace this use of System.out or System.err by a logger.(·å ñýÿÿÿÿ
+Z	java:S106K"9Replace this use of System.out or System.err by a logger.(²°·¸øÿÿÿÿ8Ø††êÇ1

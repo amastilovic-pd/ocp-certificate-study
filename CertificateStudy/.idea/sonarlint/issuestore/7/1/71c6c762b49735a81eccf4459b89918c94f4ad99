@@ -1,0 +1,35 @@
+
+L
+java:S3740Z"/Provide the parametrized type for this generic.(ƒüâÔ8¾óÿëÇ1
+n	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(¤ÿ¾Ùüÿÿÿÿ8¿óÿëÇ1
+`
+java:S1854">Remove this useless assignment to local variable "collection".(«òøúÿÿÿÿ8ÏóÿëÇ1
+Q
+java:S1481"/Remove this unused "collection" local variable.(«òøúÿÿÿÿ8ĞóÿëÇ1
+X	java:S125"<This block of commented-out lines of code should be removed.(£õËô8ÑóÿëÇ1
+W
+java:S1854":Remove this useless assignment to local variable "copyOf".(æ°ÜŞ8ÑóÿëÇ1
+\
+java:S1854":Remove this useless assignment to local variable "listOf".(¸ê•€üÿÿÿÿ8ÑóÿëÇ1
+M
+java:S1481"+Remove this unused "listOf" local variable.(¸ê•€üÿÿÿÿ8ÓóÿëÇ1
+H
+java:S1481"+Remove this unused "copyOf" local variable.(æ°ÜŞ8ÓóÿëÇ1
+Z	java:S106!"9Replace this use of System.out or System.err by a logger.(êá©Õıÿÿÿÿ8ÔóÿëÇ1
+U	java:S106""9Replace this use of System.out or System.err by a logger.(ÉŞ¨»8ÔóÿëÇ1
+U	java:S106%"9Replace this use of System.out or System.err by a logger.(Üç»õ8ÔóÿëÇ1
+Z	java:S106&"9Replace this use of System.out or System.err by a logger.(½ê¯øÿÿÿÿ8ÕóÿëÇ1
+Z	java:S1064"9Replace this use of System.out or System.err by a logger.(¹Ç—ıÿÿÿÿ8ÖóÿëÇ1
+Z	java:S1065"9Replace this use of System.out or System.err by a logger.(×ß—Áıÿÿÿÿ8×óÿëÇ1
+Z	java:S1066"9Replace this use of System.out or System.err by a logger.(™¼Ä‚ùÿÿÿÿ8×óÿëÇ1
+Z	java:S1069"9Replace this use of System.out or System.err by a logger.(¹şíùùÿÿÿÿ8×óÿëÇ1
+Z	java:S106:"9Replace this use of System.out or System.err by a logger.(¥ÉÜ·øÿÿÿÿ8×óÿëÇ1
+U	java:S106;"9Replace this use of System.out or System.err by a logger.(Ö¢ŠÓ8ØóÿëÇ1
+Z	java:S106F"9Replace this use of System.out or System.err by a logger.(Ãò½›ùÿÿÿÿ8ÙóÿëÇ1
+Z	java:S106Q"9Replace this use of System.out or System.err by a logger.(êËƒíøÿÿÿÿ8ÚóÿëÇ1
+U	java:S106\"9Replace this use of System.out or System.err by a logger.(¡È¼½8ÛóÿëÇ1
+U	java:S106f"9Replace this use of System.out or System.err by a logger.(÷êÑ£8ÜóÿëÇ1
+]
+java:S1612r";Replace this lambda with method reference 'Book::getTitle'.(ä§íşÿÿÿÿ8ßóÿëÇ1
+U	java:S106y"9Replace this use of System.out or System.err by a logger.(†ºş8àóÿëÇ1
+U	java:S106~"9Replace this use of System.out or System.err by a logger.(†¨ƒÆ8àóÿëÇ1

@@ -1,0 +1,6 @@
+
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(¬»¶óøÿÿÿÿ
+V
+java:S1854";Remove this useless assignment to local variable "syncSet".(áÔðíýÿÿÿÿ
+G
+java:S1481",Remove this unused "syncSet" local variable.(áÔðíýÿÿÿÿ

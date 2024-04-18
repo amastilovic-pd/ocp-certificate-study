@@ -1,0 +1,37 @@
+
+P
+java:S1172"5Remove these unused method parameters "num1", "num2".(ê´‘¨üÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(ßÜð»ýÿÿÿÿ
+F
+java:S1172"+Remove this unused method parameter "nums".(ñ‘ïßøÿÿÿÿ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(Ìµ‡…
+P
+java:S1172"5Remove these unused method parameters "num1", "num2".(€ôŠØýÿÿÿÿ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(Ê´Ïš
+K
+java:S1172"5Remove these unused method parameters "num1", "num2".(³“ý¯
+S	java:S106"9Replace this use of System.out or System.err by a logger.(°ù±Êùÿÿÿÿ
+S	java:S106'"9Replace this use of System.out or System.err by a logger.(ÔÉ©£üÿÿÿÿ
+V	java:S125"<This block of commented-out lines of code should be removed.(óýž¢ûÿÿÿÿ
+Q	java:S125 "<This block of commented-out lines of code should be removed.(œ©–­
+?
+java:S2185'"$Remove this silly call to "Math.abs"(ÔÉ©£üÿÿÿÿ
+V	java:S125+"<This block of commented-out lines of code should be removed.(ú˜èƒýÿÿÿÿ
+F
+java:S1128"0Remove this unused import 'java.util.ArrayList'.(÷‰îƒ
+H
+java:S1128"-Remove this unused import 'java.util.Arrays'.(î–˜Éüÿÿÿÿ
+F
+java:S1128"+Remove this unused import 'java.util.List'.(Õë±Äøÿÿÿÿ
+D
+java:S1128".Remove this unused import 'java.util.Objects'.(¼¸õ›
+J
+java:S1128"4Remove this unused import 'java.util.stream.Stream'.(ó÷Ž”
+E
+java:S1144"*Remove this unused private "hippo" method.(ê´‘¨üÿÿÿÿ
+E
+java:S1144"*Remove this unused private "hippo" method.(ñ‘ïßøÿÿÿÿ
+E
+java:S1144"*Remove this unused private "hippo" method.(€ôŠØýÿÿÿÿ
+@
+java:S1144"*Remove this unused private "hippo" method.(³“ý¯

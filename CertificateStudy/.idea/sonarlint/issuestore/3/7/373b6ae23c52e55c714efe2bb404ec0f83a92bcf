@@ -1,0 +1,15 @@
+
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(úèÇÓ
+^
+java:S2259""CA "NullPointerException" could be thrown; "rope2" is nullable here.(æ†°Óùÿÿÿÿ
+X	java:S125"<This block of commented-out lines of code should be removed.(Ü˜šô8•öË¬÷0
+S	java:S106"9Replace this use of System.out or System.err by a logger.(›ï¶‰üÿÿÿÿ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(¬¶Û¿
+T
+java:S3400"9Remove this method and declare a constant for this value.(àí–Ÿþÿÿÿÿ
+Q	java:S125"<This block of commented-out lines of code should be removed.(£¡¾æ
+W
+java:S2209""5Change this instance-reference to a static reference.(æ†°Óùÿÿÿÿ8æäÍ¥÷0
+Q	java:S125!"<This block of commented-out lines of code should be removed.(Ú÷Çã
+W
+java:S1128":Remove this unused import 'java.awt.event.ActionListener'.(Ìä¹8ÈÏÌ¬÷0

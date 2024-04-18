@@ -1,0 +1,14 @@
+
+{	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Þ­Þžÿÿÿÿÿ8‹–±„·1
+Y
+java:S2589#"7Remove this expression which always evaluates to "true"(Ë ÐŽøÿÿÿÿ8’–±„·1
+ž
+java:S1130"€Remove the declaration of thrown exception 'java.util.concurrent.ExecutionException', as it cannot be thrown from method's body.(Êšçë8—–±„·1
+›
+java:S1130"~Remove the declaration of thrown exception 'java.util.concurrent.TimeoutException', as it cannot be thrown from method's body.(Êšçë8—–±„·1
+M
+java:S1481"+Remove this unused "result" local variable.(ÄöçÌþÿÿÿÿ8™–±„·1
+X	java:S125"<This block of commented-out lines of code should be removed.(È˜†—8™–±„·1
+]	java:S125 "<This block of commented-out lines of code should be removed.(ê¬ïôþÿÿÿÿ8š–±„·1
+U	java:S106'"9Replace this use of System.out or System.err by a logger.(‘Ëå–8š–±„·1
+T	java:S106)"9Replace this use of System.out or System.err by a logger.(ðÎ8›–±„·1

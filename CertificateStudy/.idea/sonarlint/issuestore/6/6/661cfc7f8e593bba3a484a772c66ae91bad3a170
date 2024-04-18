@@ -1,0 +1,10 @@
+
+b
+java:S2095""GUse try-with-resources or close this "Statement" in a "finally" clause.(¤“ëùúÿÿÿÿ
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(²î’©ùÿÿÿÿ8şâìøğ0
+Q
+java:S1854'"6Remove this useless assignment to local variable "rs".(ç®±ùÿÿÿÿ
+B
+java:S1481'"'Remove this unused "rs" local variable.(ç®±ùÿÿÿÿ
+J
+java:S1144 "/Remove this unused private "commitData" method.(û€Æ˜ÿÿÿÿÿ
