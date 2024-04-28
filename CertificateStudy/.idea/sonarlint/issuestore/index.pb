@@ -191,8 +191,6 @@ V
 &src/functionalinterface/_Function.java,7\6\762dd57ccb6f920f0b9e1676da1054316c6f4fcc
 H
 src/combinator/Main.java,d\2\d26e26a90337eb0ecfbffb71bb67acf3546fd308
-a
-1src/combinator/CustomerRegistrationValidator.java,c\7\c72ce8802fa87fe1d89258452b4a1229895c8a11
 [
 +src/objectsDifferentProperties/Product.java,e\c\ec1c25eab04783b963e6dde6b876e2c13e792e6d
 X
@@ -229,11 +227,9 @@ S
 #src/chapter10/PrimitiveStreams.java,8\3\832012d6a8c362959edc89a0b6a62c677bf029c2
 X
 (src/chapter13/ExeqtorServiceMethods.java,3\0\300791fb98b27f97562d3337f5ba253d6936a7fe
-L
-src/combinator/Customer.java,6\6\6607701441f9c028f84cde4ac75672ce76a3fb86
 \
 ,src/objectsDifferentProperties/Resource.java,e\5\e5a1b81ffa746f1c7ac2e6f90b11e18d27f4ceed
-P
- src/chapter13/ContentHolder.java,1\7\179eb001731cab8ac13225753ec07c1775f8247b
 G
 src/chapter13/Main.java,7\7\775674025a9f3762c6d868fea2b25891f37df91d
+P
+ src/chapter13/ContentHolder.java,1\7\179eb001731cab8ac13225753ec07c1775f8247b
