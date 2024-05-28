@@ -1,8 +1,0 @@
-
-o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(úèÇÓ
-d
-java:S2259	"BA "NullPointerException" could be thrown; "rope" is nullable here.(óìîÄùÿÿÿÿ8ÇÌ¥÷0
-Z	java:S106	"9Replace this use of System.out or System.err by a logger.(óìîÄùÿÿÿÿ8ªäË¥÷0
-X	java:S125"<This block of commented-out lines of code should be removed.(ßÅÓ8ÊÌ¥÷0
-W
-java:S2209	"5Change this instance-reference to a static reference.(óìîÄùÿÿÿÿ8ËÌ¥÷0

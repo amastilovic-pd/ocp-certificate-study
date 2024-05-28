@@ -1,21 +1,0 @@
-
-\
-java:S1192"FDefine a constant instead of duplicating this literal "Hello" 4 times.(¸Íş
-t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Ş­Şÿÿÿÿÿ
-S
-java:S1226)">Introduce a new variable instead of reusing the parameter "s".(ÀÕî	
-6
-java:S2129" Remove this "String" constructor(¸Íş
-;
-java:S2129" Remove this "String" constructor(Òô­Íşÿÿÿÿ
-S	java:S106"9Replace this use of System.out or System.err by a logger.(Èö“úÿÿÿÿ
-M	java:S106"9Replace this use of System.out or System.err by a logger.(¹¦Ùw
-N	java:S106"9Replace this use of System.out or System.err by a logger.(«‹ŞÜ
-S	java:S106"9Replace this use of System.out or System.err by a logger.(¸¤ÀÛøÿÿÿÿ
-S	java:S106"9Replace this use of System.out or System.err by a logger.(¤´°Ñÿÿÿÿÿ
-S	java:S106"9Replace this use of System.out or System.err by a logger.(²»¯ùÿÿÿÿ
-N	java:S106"9Replace this use of System.out or System.err by a logger.(‰œí¥
-K	java:S106"9Replace this use of System.out or System.err by a logger.(Şg
-S	java:S106!"9Replace this use of System.out or System.err by a logger.(Å­Ëİúÿÿÿÿ
-J
-java:S1854)"5Remove this useless assignment to local variable "s".(ÀÕî	

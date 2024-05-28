@@ -1,31 +1,0 @@
-
-?
-java:S1948")Make "gorilla" transient or serializable.(ž¢¿ˆ
-V	java:S125"<This block of commented-out lines of code should be removed.(“Ã¬’ýÿÿÿÿ
-R
-java:S1854'"<Remove this useless assignment to local variable "integers".(Œ„Æ©
-Q
-java:S1854%"6Remove this useless assignment to local variable "lg".(‰èÒ¥úÿÿÿÿ
-L
-java:S1854#"6Remove this useless assignment to local variable "fn".(Œ½ß
-K
-java:S1854"5Remove this useless assignment to local variable "r".(¡Å”¦
-N	java:S106"9Replace this use of System.out or System.err by a logger.(©å‰
-<
-java:S1481"&Remove this unused "r" local variable.(¡Å”¦
-l
-java:S4276#"VRefactor this code to use the more specialised Functional Interface 'IntUnaryOperator'(Œ½ß
-X	java:S125""<This block of commented-out lines of code should be removed.(ï¡•»8ÙìÃØõ0
-=
-java:S1481#"'Remove this unused "fn" local variable.(Œ½ß
-Q	java:S125$"<This block of commented-out lines of code should be removed.(Ìôó–
-B
-java:S1481%"'Remove this unused "lg" local variable.(‰èÒ¥úÿÿÿÿ
-C
-java:S1481'"-Remove this unused "integers" local variable.(Œ„Æ©
-e
-java:S1128"CRemove this unused import 'java.util.function.DoubleToIntFunction'.(å¯ßÍþÿÿÿÿ8ÛìÃØõ0
-Z
-java:S1128"=Remove this unused import 'java.util.function.ToIntFunction'.(§÷Ù8ÛìÃØõ0
-B
-java:S1068"'Remove this unused "age" private field.(Æ†´¦þÿÿÿÿ

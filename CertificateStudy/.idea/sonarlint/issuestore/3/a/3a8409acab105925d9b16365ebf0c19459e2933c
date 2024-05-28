@@ -1,20 +1,0 @@
-
-Z	java:S106"9Replace this use of System.out or System.err by a logger.(…‘ÉÑıÿÿÿÿ8ôúœ±Ó1
-{
-java:S1171	"YMove the contents of this initializer to a standard constructor or to field initializers.(ÒÌâ–øÿÿÿÿ8õúœ±Ó1
-U	java:S106
-"9Replace this use of System.out or System.err by a logger.(ñª•ó8õúœ±Ó1
-M
-java:S1172"+Remove this unused method parameter "name".(‰İê¦úÿÿÿÿ8öúœ±Ó1
-Z	java:S106"9Replace this use of System.out or System.err by a logger.(´œàÚÿÿÿÿÿ8øúœ±Ó1
-Z	java:S106"9Replace this use of System.out or System.err by a logger.(÷Ôó›ùÿÿÿÿ8ùúœ±Ó1
-K
-java:S1172".Remove this unused method parameter "stripes".(ĞĞ÷8úúœ±Ó1
-Z	java:S106"9Replace this use of System.out or System.err by a logger.(èÙÆ·ıÿÿÿÿ8ûúœ±Ó1
-U	java:S106"9Replace this use of System.out or System.err by a logger.(ìğ£8üúœ±Ó1
-Z	java:S106""9Replace this use of System.out or System.err by a logger.(ÕäÓ¶ÿÿÿÿÿ8ıúœ±Ó1
-{
-java:S1171%"YMove the contents of this initializer to a standard constructor or to field initializers.(ÒÌâ–øÿÿÿÿ8şúœ±Ó1
-U	java:S106&"9Replace this use of System.out or System.err by a logger.(Õ±°Â8şúœ±Ó1
-]	java:S1256"<This block of commented-out lines of code should be removed.(ÿ÷¸Åøÿÿÿÿ8ˆûœ±Ó1
-]	java:S125>"<This block of commented-out lines of code should be removed.(—Ûóäûÿÿÿÿ8Šûœ±Ó1

@@ -1,7 +1,0 @@
-
-o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(µä‘¹
-S	java:S106"9Replace this use of System.out or System.err by a logger.(ñšØýüÿÿÿÿ
-7
-java:S1116"Remove this empty statement.(ôŸŽìúÿÿÿÿ
-D
-java:S1144".Remove this unused private "checkTime" method.(ˆ…ÄŸ

@@ -1,44 +1,0 @@
-
-t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ÀÜÙ«üÿÿÿÿ
-d
-java:S1854 "IRemove this useless assignment to local variable "referenceListSupplier".(¥…„êşÿÿÿÿ
-a
-java:S1854"FRemove this useless assignment to local variable "lambdaListSupplier".(á ±ûÿÿÿÿ
-X
-java:S1854"BRemove this useless assignment to local variable "methodRefCheck".(ñşÔ¯
-U
-java:S1854"?Remove this useless assignment to local variable "lambdaCheck".(´õÕĞ
-[
-java:S1854"FRemove this useless assignment to local variable "referenceConverter".(…Æë
-Y
-java:S1854"CRemove this useless assignment to local variable "lambdaConverter".(¦´ ”
-B
-java:S1481"'Remove this unused "st" local variable.(¡ñğÕùÿÿÿÿ
-o
-java:S4276"YRefactor this code to use the more specialised Functional Interface 'IntToDoubleFunction'(¦´ ”
-M
-java:S1612"7Replace this lambda with method reference 'Math::sqrt'.(¦´ ”
-J
-java:S1481"4Remove this unused "lambdaConverter" local variable.(¦´ ”
-n
-java:S4276"YRefactor this code to use the more specialised Functional Interface 'IntToDoubleFunction'(…Æë
-L
-java:S1481"7Remove this unused "referenceConverter" local variable.(…Æë
-[
-java:S1612"@Replace this lambda with method reference 'System.out::println'.(ôÔÍøÿÿÿÿ
-S	java:S106"9Replace this use of System.out or System.err by a logger.(ôÔÍøÿÿÿÿ
-M	java:S106"9Replace this use of System.out or System.err by a logger.(Í¸!
-R
-java:S1612"<Replace this lambda with method reference 'String::isEmpty'.(´õÕĞ
-F
-java:S1481"0Remove this unused "lambdaCheck" local variable.(´õÕĞ
-I
-java:S1481"3Remove this unused "methodRefCheck" local variable.(ñşÔ¯
-]
-java:S1612";Replace this lambda with method reference 'ArrayList::new'.(á ±ûÿÿÿÿ8„ñ¸‹ì0
-R
-java:S1481"7Remove this unused "lambdaListSupplier" local variable.(á ±ûÿÿÿÿ
-U
-java:S1481 ":Remove this unused "referenceListSupplier" local variable.(¥…„êşÿÿÿÿ
-Q
-java:S1128"/Remove this unused import 'java.sql.SQLOutput'.(ê¤òÃùÿÿÿÿ8…ñ¸‹ì0
