@@ -1,4 +1,7 @@
-package combinator.mapperexample;
+package functionalMapper;
+
+import functionalMapper.model.InputDto;
+import functionalMapper.model.OutputDto;
 
 import java.util.Objects;
 import java.util.function.Consumer;
@@ -7,7 +10,6 @@ import java.util.logging.Logger;
 
 public interface MapperUtil extends Function<InputDto, Consumer<OutputDto>> {
     Logger log = Logger.getLogger(MapperUtil.class.getName());
-    //    Logger log = LoggerFactory.getLogger(ResourceCharacteristicsUtil.class);
 
     static MapperUtil mapServiceIdentifier() {
         log.info("Mapping service identifier");

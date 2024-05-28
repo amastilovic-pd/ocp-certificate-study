@@ -1,4 +1,4 @@
-package combinator.mapperexample;
+package functionalMapper.model;
 
 public class OutputDto {
     private String serviceIdentifier;

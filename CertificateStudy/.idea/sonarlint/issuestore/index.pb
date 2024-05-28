@@ -15,14 +15,8 @@ V
 &src/main/java/combinator/Customer.java,6\c\6c32868b3a7847f7777b879c1675f393e02a59b2
 d
 4src/main/java/combinator/mapperexample/InputDto.java,e\9\e9902457ff228aa6bad6e49047ed8b1ecc3d1a4b
-k
-;src/main/java/combinator/CustomerRegistrationValidator.java,4\2\42459ab4205d1dc9e5ce1d268a4b0efdb497cdda
 U
 %src/main/java/chapter8/MethodRef.java,b\b\bb1423b151e1d12174e4dac639c86efde47755c3
-f
-6src/main/java/combinator/mapperexample/MapperUtil.java,5\5\55ae11cbb44e8f967d95bc36f47c1e6486ceb69c
-`
-0src/main/java/combinator/mapperexample/Main.java,f\a\fa8bc3deaa5c9b3ab5287d1096256af0e1920394
 N
 src/main/java/ChapterFour.java,9\0\90f0a1f6cd64fe91b872564e6b217a6b42867077
 y
@@ -65,3 +59,5 @@ Jperformanceresults/sublist/results5451b0e0-ff21-4868-8038-ad404736e1b6.txt,7\8
 ,src/main/java/chapter13/AddDataCallable.java,b\3\b3c9e430d2eca6ff32e3f3888cccd92e769045a5
 Y
 )src/main/java/mono/ColdHotPublishers.java,6\b\6be0fd15fa4de5d25b89ccda778614e5925843dd
+Y
+)src/main/java/batch/BasicResponseDto.java,c\2\c2dae9f0b9b236872b9c9d3ec7af866f9fd4984c
