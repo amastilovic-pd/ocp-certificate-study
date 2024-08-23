@@ -67,7 +67,7 @@ interface MapperUtilFunc extends Function<InputDto, Boolean> {
         log.info("Chaining resource characteristics");
         return inputDto -> {
             Boolean result = this.apply(inputDto);
-            System.out.println(result);
+            System.out.println("return from this: "+result);
             return Boolean.TRUE.equals(result) ? other.apply(inputDto) : result;
         };
     }

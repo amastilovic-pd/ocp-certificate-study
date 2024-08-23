@@ -84,7 +84,7 @@ public class Batchrequest {
         long usedMemoryBefore = runtime.totalMemory() - runtime.freeMemory();
 
 //        batchesFromBuffer(ids, batchSize);
-//        batchesWithSublistConsumer(totalItems, batchSize).accept(ids);
+        batchesWithSublistConsumer(totalItems, batchSize).accept(ids);
 //        classicBatchesConsumer(totalItems, batchSize).accept(ids);
 //        testStringBuilder(basicResponseDtos);
 //        testStreamMap(basicResponseDtos);

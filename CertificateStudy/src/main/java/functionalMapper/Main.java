@@ -3,9 +3,10 @@ package functionalMapper;
 import functionalMapper.model.InputDto;
 import functionalMapper.model.OutputDto;
 
+import java.util.LinkedList;
+import java.util.List;
 import java.util.logging.Logger;
 
-import static functionalMapper.MapperUtil.mapServiceIdentifier;
 import static functionalMapper.MapperUtilConsumer.mapToOutputDto;
 
 public class Main {
@@ -35,9 +36,53 @@ public class Main {
 //                .and(MapperUtilConsumer.mapVoucherId(inputDto))
 //                .accept(outputDto);
 
-//        mapToOutputDto(inputDto).accept(outputDto);
-        OutputDto output = MapperUtilFunc.mapToOutputDto().apply(inputDto);
+        mapToOutputDto(inputDto).accept(outputDto);
+//        OutputDto output = MapperUtilFunc.mapToOutputDto().apply(inputDto);
+//        System.out.println(outputDto);
+//        moveLargestElementOfLinkedListToEnd(new LinkedList<>(List.of(1, 2, 3, 4, 5, 0)));
+        String whonkows = "test %s".formatted("whonkows");
+        String whonkows1 = String.format("test %s", "whonkows");
+        System.out.println(whonkows);
+        System.out.println(whonkows1);
+    }
 
-        System.out.println(output);
+    static void findLargestNumberArray() {
+        int[] arr = {1, 2, 3, 4, 5};
+        int max = arr[0];
+        for (int i = 1; i < arr.length; i++) {
+            if (arr[i] > max) {
+                max = arr[i];
+            }
+        }
+        System.out.println("Largest number in array is: " + max);
+    }
+
+    static void moveLargestElementOfLinkedListToEnd(LinkedList<Integer> list) {
+        // Move the largest element of a linked list to the end of the list
+        if(list.isEmpty()) {
+            // List is empty
+            return;
+        }
+
+        int head = list.getFirst();
+        int maxIndex = 0;
+
+        if(list.size() == 1) {
+            // If the list has only one element, return the list
+            System.out.println(list);
+        }
+
+        for (int i = 1; i < list.size(); i++) {
+            if (list.get(i) > head) {
+                head = list.get(i);
+                maxIndex = i;
+            }
+        }
+        if (list.getLast() < head) {
+            list.remove(maxIndex);
+            list.addLast(head);
+        }
+
+        System.out.println(list);
     }
 }

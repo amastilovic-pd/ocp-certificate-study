@@ -16,7 +16,7 @@ public class StreamsChapter {
     public static void main(String[] args) {
 //        peekStream();
  //        streamReduce();
-        streamCollect();
+//        streamCollect();
 //        streamJoining();
 //        streamCollectToMap();
 //        streamCollectToMapWithDuplicateValues();
@@ -28,7 +28,14 @@ public class StreamsChapter {
         System.out.println(Arrays.toString(arr));
         quickSort(arr, 0, arr.length - 1);
         System.out.println(Arrays.toString(arr));
+        ReferenceTest<List<String>> listReferenceTest = null;
 
+        listReferenceTest = new ReferenceTest<>();
+        List<String> list = new LinkedList<>();
+        listReferenceTest.setValue(list);
+
+        list.add("test");
+        System.out.println(listReferenceTest);
     }
 
     static void peekStream() {
