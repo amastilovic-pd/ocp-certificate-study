@@ -1,4 +1,4 @@
-package chapter13;
+package concurrency_chapter13;
 
 import chapter5.Rope;
 

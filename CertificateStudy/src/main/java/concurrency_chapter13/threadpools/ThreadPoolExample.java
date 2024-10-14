@@ -1,14 +1,11 @@
-package chapter13.threadpools;
+package concurrency_chapter13.threadpools;
 
-import java.lang.invoke.MethodHandles;
 import java.util.LinkedList;
 import java.util.Random;
-import java.util.concurrent.CountDownLatch;
 import java.util.concurrent.ExecutorService;
 import java.util.concurrent.Executors;
 import java.util.concurrent.ScheduledExecutorService;
 import java.util.concurrent.TimeUnit;
-import java.util.concurrent.locks.ReentrantLock;
 import java.util.logging.Logger;
 
 public class ThreadPoolExample {

@@ -7,5 +7,7 @@ public class Main {
         ParentDog parentDog = childDog;
         childDog.printPoly();
         parentDog.printPoly();
+        System.out.println(childDog.name);
+        System.out.println(parentDog.name);
     }
 }

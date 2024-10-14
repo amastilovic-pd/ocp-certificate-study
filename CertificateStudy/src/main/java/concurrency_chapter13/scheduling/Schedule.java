@@ -1,4 +1,4 @@
-package chapter13.scheduling;
+package concurrency_chapter13.scheduling;
 
 import java.util.concurrent.Callable;
 import java.util.concurrent.ExecutionException;

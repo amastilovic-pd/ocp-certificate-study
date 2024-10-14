@@ -1,4 +1,6 @@
-package chapter13;
+package concurrency_chapter13;
+
+import io.micrometer.observation.Observation;
 
 import java.util.List;
 import java.util.concurrent.Callable;
@@ -18,7 +20,6 @@ public class MultipleTasks {
         System.out.println("Start of the main thread");
 
         Callable<String> task = () -> "Result from the thread";
-
         ExecutorService service = null;
 
         try {

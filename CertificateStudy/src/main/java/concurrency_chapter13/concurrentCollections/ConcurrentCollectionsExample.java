@@ -1,4 +1,4 @@
-package chapter13.concurrentCollections;
+package concurrency_chapter13.concurrentCollections;
 
 import java.util.Collections;
 import java.util.HashSet;

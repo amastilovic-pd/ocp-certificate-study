@@ -1,4 +1,4 @@
-package chapter13;
+package concurrency_chapter13;
 
 public class CheckResult {
 

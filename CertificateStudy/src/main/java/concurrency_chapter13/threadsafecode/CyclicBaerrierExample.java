@@ -1,4 +1,4 @@
-package chapter13.threadsafecode;
+package concurrency_chapter13.threadsafecode;
 
 import java.util.concurrent.BrokenBarrierException;
 import java.util.concurrent.CyclicBarrier;
